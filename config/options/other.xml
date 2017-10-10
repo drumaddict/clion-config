@@ -1,0 +1,7 @@
+<application>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="5" />
+    <option name="useBundledGDB" value="false" />
+    <option name="useBundledLLDB" value="true" />
+  </component>
+</application>
